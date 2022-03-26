@@ -89,7 +89,7 @@ cmd2执行命令：
 
 ## 0x03 开发细节
 
-环境配置:jdk1.8+swing+eclipse+windowbuilder1.9.7
+环境配置：jdk1.8+swing+eclipse+windowbuilder1.9.7
 
 使用的第三方库：
 
