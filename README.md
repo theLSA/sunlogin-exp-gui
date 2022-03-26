@@ -1,4 +1,4 @@
-# sunlogin-exp-gui：java GUI版向日葵（sunlogin） RCE漏洞检测工具
+# sunlogin-exp-gui：java GUI版向日葵RCE漏洞利用工具
 
 
 
