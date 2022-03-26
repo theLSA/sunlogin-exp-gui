@@ -1,10 +1,13 @@
-# sunlogin-exp-gui：java GUI版向日葵RCE漏洞利用工具
+# sunlogin-exp-gui：GUI版向日葵RCE漏洞利用工具
+
+
+命令行版：[https://github.com/theLSA/sunlogin-exp-cmd](https://github.com/theLSA/sunlogin-exp-cmd)
 
 
 
 ## 0x00 概述
 
-202202，网上爆出远程管理工具向日葵的RCE漏洞，利用check接口和cookie中的cid值即可远程命令执行。
+202202，网上爆出远程管理工具向日葵的RCE漏洞，利用check接口和cookie中的CID值即可远程命令执行。
 
 
 ## 0x01 影响范围
